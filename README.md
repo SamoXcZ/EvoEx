@@ -1,3 +1,8 @@
+# icon
+
+![3FEB7842-6CCE-448B-B0E0-241499CE9C62](https://github.com/user-attachments/assets/44aabbae-be91-40e1-9ebb-d92804706e16)
+
+
 # About EvoEx
 
 Elevate your web browsing experience with EvoEx, the advanced app that not only blocks ads but also allows user to speed up web page with speed 2x up to 10x. EvoEx is designed to provide a cleaner by removing intrusive ads and offering powerful speed controls.
