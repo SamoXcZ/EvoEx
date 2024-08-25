@@ -17,3 +17,6 @@ Elevate your web browsing experience with EvoEx, the advanced app that not only 
 Experience a faster, cleaner web with EvoEx—where enhanced speed and effective adblocking meet. Note that while EvoEx aims to bypass adblocker detections, users may encounter occasional issues and will need to manually interact with the app.
 
 
+# Reminder 
+
+Don't expect to be hyped from this version, It's not a big deal design you might've expected, but its simple to use.
